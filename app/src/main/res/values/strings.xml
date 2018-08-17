@@ -9,6 +9,7 @@
     <string name="resta">Resta</string>
     <string name="multiplicacion">Multiplicación</string>
     <string name="division">División</string>
+    <string name="seleccione">Selecciones una operación</string>
     <string-array name="opciones">
         <item>@string/suma</item>
         <item>@string/resta</item>

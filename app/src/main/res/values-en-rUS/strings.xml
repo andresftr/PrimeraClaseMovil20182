@@ -9,5 +9,6 @@
     <string name="suma">Addition</string>
     <string name="resta">Subtraction</string>
     <string name="multiplicacion">Multiplication</string>
+    <string name="seleccione">Choose a operation</string>
     <string name="division">Division</string>
 </resources>
