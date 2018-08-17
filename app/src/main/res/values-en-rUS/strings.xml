@@ -10,5 +10,9 @@
     <string name="resta">Subtraction</string>
     <string name="multiplicacion">Multiplication</string>
     <string name="seleccione">Choose a operation</string>
+    <string name="error_1">Type number one</string>
+    <string name="error_2">Type number two</string>
+    <string name="error_3">Choose a Operation</string>
+    <string name="error_4">Number two cannot be zero</string>
     <string name="division">Division</string>
 </resources>
