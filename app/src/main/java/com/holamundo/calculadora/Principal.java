@@ -81,6 +81,7 @@ public class Principal extends AppCompatActivity {
         if (o==4 && Double.parseDouble(n2.getText().toString())==0){
             n2.setError(recursos.getString(R.string.error_4));
             n2.requestFocus();
+            return false;
         }
         return true;
     }
